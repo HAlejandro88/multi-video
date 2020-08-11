@@ -7,3 +7,8 @@
 ## Autor
 
 Alejandro Soto
+
+
+```
+peerjs --port 3001
+```
