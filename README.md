@@ -1,6 +1,6 @@
-# Videollamdas
+# Videollamadas
 
-### Instalaciones Ncesarias
+### Instalaciones Necesarias
 > sudo npm i -g peer
 > npm i --save
 
